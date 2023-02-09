@@ -50,6 +50,7 @@ public class Condicao {
 
         System.out.printf("Dia da semana: " + dia);
         sc.close();
+        hora.close();
 
         // Condicao operador ternario
         // (condicao) ? valor_se_verdadeiro : valor_se_falso
